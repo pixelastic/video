@@ -1,0 +1,12 @@
+{
+  "name": "video",
+  "version": "1.0.0",
+  "description": "Set of command-line tools to manipulate videos",
+  "main": "index.js",
+  "repository": "git@github.com:pixelastic/video.git",
+  "author": "Pixelastic <tim@pixelastic.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "fluent-ffmpeg": "^2.1.0"
+  }
+}
